@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "b0dbca4cda581544",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4d457c05ad00492",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Banane.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7b47de0fd75f283",
+    "type": "split",
+    "children": [
+      {
+        "id": "992860dcf1fce72d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8687693d4634cca4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86d13561488b6bc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d46d15d6bcf37226",
+    "type": "split",
+    "children": [
+      {
+        "id": "332838c8b8265732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d646cdb1d079a4da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Banane.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f4d457c05ad00492",
+  "lastOpenFiles": [
+    "Banane.md",
+    "new file.md",
+    "README.md"
+  ]
+}
